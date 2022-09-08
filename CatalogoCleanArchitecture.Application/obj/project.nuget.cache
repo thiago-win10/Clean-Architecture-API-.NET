@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "27O1qJIZ/VMpasSNR/YKRpr/TylPbA1Ah/W6gZIJBc5YjA+IIBj9CxWAR57hMdM/rxaB0wJBYC3+cy0h/LnklA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thiago\\Desktop\\c#\\CatalogoCleanArchitecture\\CatalogoCleanArchitecture.Application\\CatalogoCleanArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thiago\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Thiago\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

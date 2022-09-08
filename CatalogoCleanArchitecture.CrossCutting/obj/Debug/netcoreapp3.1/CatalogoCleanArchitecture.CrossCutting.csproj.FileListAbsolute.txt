@@ -1,0 +1,17 @@
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.deps.json
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Application.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Application.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.csproj.CopyComplete
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.CrossCutting\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.CrossCutting.pdb

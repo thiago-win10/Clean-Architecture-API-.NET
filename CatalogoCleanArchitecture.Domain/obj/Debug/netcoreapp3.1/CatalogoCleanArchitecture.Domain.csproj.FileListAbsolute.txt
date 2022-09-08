@@ -1,0 +1,10 @@
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.deps.json
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Domain\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.pdb

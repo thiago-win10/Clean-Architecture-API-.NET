@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.deps.json
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\bin\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Domain.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.dll
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.pdb
+C:\Users\Thiago\Desktop\c#\CatalogoCleanArchitecture\CatalogoCleanArchitecture.Infrastructure\obj\Debug\netcoreapp3.1\CatalogoCleanArchitecture.Infrastructure.genruntimeconfig.cache
